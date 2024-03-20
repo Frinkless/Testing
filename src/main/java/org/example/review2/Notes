@@ -1,0 +1,41 @@
+Type casting:
+    Type casting is moving the data from one data type to another. When we move
+    something from a smaller date type to larger data type. It's called
+    automatic/widening/implicit.
+
+    When we move something from a bigger box to smaller box it is called
+    manual/narrowing/explicit.
+Data Types from smaller to larger:
+    1)byte
+    2)short
+    3)integer
+    4)long
+    5)float
+    6)double
+When should we use type casting?
+    when we combine the code from different sources we might need t
+    perform this type of casting to make the code
+    compatible
+Relational operators:
+    Relational operators help us compare data.
+    == this means equal, if something is same or not
+    true or false result will be printed
+    != if something is not same returns true
+    > if the value on left side is greater than the right side returns true
+    < if the value on left side is smaller than right side returns true
+    >= if the value on left side is greater or equal than right side returns true
+    <= if the value on left side is smaller or equal than right side returns true
+If statements:
+    if statements help computer to execute the code conditionally.
+    Without if conditions almost all the programs will be useless. They will not
+    be able to take any decisions.
+    There are many variations of these statements.
+    if statements - one condition and one action
+
+    if else statements - one condition two actions
+
+    if else if statements - multiple conditions multiple actions.
+
+    Nested if statements - one action is executed under another conditions
+
+

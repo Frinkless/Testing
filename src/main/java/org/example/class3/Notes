@@ -1,0 +1,22 @@
+Compound operators/ShortHandOperators:
+    Help us perform some calculations by writing shorter code.
+    +=,-=,*=,/=,%=
+Type Casting:
+    Is converting the data from one type to another type.
+    When the codes were written by many people. We can assign one datatype.
+    byte is the shortest-shor-int-long-float-double
+Arithmetic Operators:
+    Helps us perform simple operations like +,-,*,/,%,
+    = assigning
+Relational Operators:
+    Helps us compare data.
+    == whether is same
+    != not equal to, opposite of the above
+    > greater
+    < smaller
+    >= greater or equal
+    <= smaller or equal
+If else statements:
+
+
+
